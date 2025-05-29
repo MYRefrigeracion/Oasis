@@ -2,14 +2,14 @@
   "name": "Oasis.BienestarCorporal",
   "short_name": "Oasis",
   "description": "Tu oasis de bienestar corporal en Mar del Plata",
-  "start_url": "/",
+  "start_url": "/Oasis/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#FF7047",
   "icons": [
     {
-      "src": "/icons/icon-512x512.svg",
+      "src": "/Oasis/icons/icon-512x512.svg",
       "sizes": "512x512",
       "type": "image/svg+xml",
       "purpose": "any maskable"
@@ -17,7 +17,7 @@
   ],
   "screenshots": [
     {
-      "src": "/screenshots/screenshot1.png",
+      "src": "/Oasis/screenshots/screenshot1.png",
       "sizes": "1280x800",
       "type": "image/png"
     }

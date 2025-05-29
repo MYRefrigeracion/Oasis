@@ -1,13 +1,13 @@
 const CACHE_NAME = 'oasis-v2';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/styles.css',
-  '/manifest.json',
-  '/icons/icon-512x512.svg',
-  '/generate-icon.html',
-  '/generate-icons.ps1',
-  '/hide-gamma.js'
+  '/Oasis/',
+  '/Oasis/index.html',
+  '/Oasis/styles.css',
+  '/Oasis/manifest.json',
+  '/Oasis/icons/icon-512x512.svg',
+  '/Oasis/generate-icon.html',
+  '/Oasis/generate-icons.ps1',
+  '/Oasis/hide-gamma.js'
 ];
 
 // Instalar el service worker
